@@ -1,24 +1,29 @@
-# README
+# Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A database-powered quote generator, with a mobile first design, using Ruby on Rail framework, HTML, and CSS.
 
-Things you may want to cover:
 
-* Ruby version
+[View the deployed application](http://splurty-alyssa-redman.herokuapp.com/)
 
-* System dependencies
+__
 
-* Configuration
+###Features 
 
-* Database creation
+* Ruby 2.5.3 
 
-* Database initialization
+* jQuery
 
-* How to run the test suite
+* Bootstrap
 
-* Services (job queues, cache servers, search engines, etc.)
+* PostgresSQL database
 
-* Deployment instructions
+* Simple Form gem allows new quote submission
 
-* ...
+* Quotes load randomly each time the page refreshes
+
+
+__
+
+### Screenshots
+![Screenshot](app/assets/images/quote.png)
+![Screenshot](app/assets/images/contribute.png)
