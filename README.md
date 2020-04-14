@@ -7,7 +7,7 @@ A database-powered quote generator, with a mobile first design, using Ruby on Ra
 
 __
 
-###Features 
+### Features 
 
 * Ruby 2.5.3 
 
