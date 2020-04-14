@@ -1,6 +1,6 @@
 # Splurty
 
-A database-powered quote generator, with a mobile first design, using Ruby on Rail framework, HTML, and CSS.
+A database-powered quote generator, with a mobile first design, using Ruby on Rails framework, HTML, and CSS.
 
 
 [View the deployed application](http://splurty-alyssa-redman.herokuapp.com/)
