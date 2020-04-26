@@ -5,7 +5,7 @@ A database-powered quote generator, with a mobile first design, using Ruby on Ra
 
 [View the deployed application](http://splurty-alyssa-redman.herokuapp.com/)
 
-__
+_____________
 
 ### Features 
 
@@ -22,7 +22,13 @@ __
 * Quotes load randomly each time the page refreshes
 
 
-__
+______________
+
+### How to use
+
+Users can refresh the page or click "This isn't enough I need more" to load a different quote from the database. New quotes can be added via a pop-up modal by clicking "Contribute". 
+
+______________
 
 ### Screenshots
 ![Screenshot](app/assets/images/quote.png)
