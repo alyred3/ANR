@@ -26,7 +26,7 @@ ______________
 
 ### How to use
 
-Users can refresh the page or click "This isn't enough I need more" to load a different quote from the database. New quotes can be added via a pop-up modal by clicking "Contribute". 
+Users can refresh the page, or click "This isn't enough I need more", to load a different quote from the database. New quotes can be added via a pop-up modal by clicking "Contribute". 
 
 ______________
 
