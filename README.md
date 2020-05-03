@@ -37,8 +37,8 @@ ______________
 
 ### How to use
 
-Users can refresh the page, click the button on top left, or click "This isn't enough I need more", to load a different quote from the database.<br />
+#### Users can refresh the page, click the button on top left, or click "This isn't enough I need more", to load a different quote from the database.<br />
 ![Screenshot](app/assets/images/quote.gif)
 
-New quotes can be added via a pop-up modal by clicking "Contribute". 
+#### New quotes can be added via a pop-up modal by clicking "Contribute". 
 ![Screenshot](app/assets/images/contribute.gif)
