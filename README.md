@@ -25,12 +25,13 @@ _____________
 ______________
 
 ### Installation
+From this repository click <b>Clone or download</b> and copy command for SSH `git@github.com:alyred3/ANR.git` or HTTPS `https://github.com/alyred3/ANR.git`
 
-Clone with SSH `git@github.com:alyred3/ANR.git` or HTTPS `https://github.com/alyred3/ANR.git`
+From terminal window change to local directory where you want to clone repo
 
-Run `git clone git@github.com:alyred3/ANR.git` or `git clone https://github.com/alyred3/ANR.git` in local command line
+Paste clone command into command line `$ git clone git@github.com:alyred3/ANR.git` or `$ git clone https://github.com/alyred3/ANR.git`
 
-Run `bundle install`
+Run `$ bundle install`
 
 ______________
 
