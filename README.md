@@ -24,12 +24,20 @@ _____________
 
 ______________
 
-### How to use
+### Installation
 
-Users can refresh the page, or click "This isn't enough I need more", to load a different quote from the database. New quotes can be added via a pop-up modal by clicking "Contribute". 
+Clone with SSH `git@github.com:alyred3/ANR.git` or HTTPS `https://github.com/alyred3/ANR.git`
+
+Run `git clone git@github.com:alyred3/ANR.git` or `git clone https://github.com/alyred3/ANR.git` in local command line
+
+Run `bundle install`
 
 ______________
 
-### Screenshots
-![Screenshot](app/assets/images/quote.png)
-![Screenshot](app/assets/images/contribute.png)
+### How to use
+
+Users can refresh the page, click the button on top left, or click "This isn't enough I need more", to load a different quote from the database.
+![Screenshot](app/assets/images/quote.gif)
+
+New quotes can be added via a pop-up modal by clicking "Contribute". 
+![Screenshot](app/assets/images/contribute.gif)
